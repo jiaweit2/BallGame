@@ -1,5 +1,5 @@
 # BallGame
-A 3d mobile game designed for WeChat
+A 3d mobile game, using WebGL with the library Three.js and Oimo.js physics engine, designed for WeChat APP.
 
 ## How to play
 Try to slide left/right, touch & hold the screen.
